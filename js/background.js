@@ -97,9 +97,6 @@ const imageHead = document.getElementById("full-background");
 let i = 0;
 
 setInterval(function() {
-      imageHead.style.backgroundImage = "url(" + techno_images[i] + ")";
-      i = i + 1;
-      if (i == images.length) {
-      	i =  0;
-      }
+  var img = techno_images[Math.floor(Math.random() * techno_images.length)];
+  imageHead.style.backgroundImage = "url(" + img + ")";
 }, 3000);
