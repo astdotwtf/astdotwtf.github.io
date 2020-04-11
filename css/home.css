@@ -1,0 +1,38 @@
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 72px;
+}
+
+.full-background {
+  background-image: url(https://d2w9rnfcy7mm78.cloudfront.net/2964133/original_4068f0a2d8c5a2dd21c75d8803cb9d2f.gif);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.header {
+  color: #999999;
+  margin:  50px 50px 75px;
+}
+
+.sc {
+  top: 5%;
+  left: 2%;
+  position: absolute;
+  width: 0px;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.caveat {
+  top: 100px;
+  left: 50px;
+  position: absolute;
+}
