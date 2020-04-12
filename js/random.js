@@ -12,5 +12,14 @@ const myArray = [
 ];
 
 const rand = myArray[Math.floor(Math.random() * myArray.length)];
-
 document.getElementById('iframe').src = rand;
+
+document.getElementById('left-button').onclick = function () {
+  const rand = myArray[Math.floor(Math.random() * myArray.length)];
+  document.getElementById('iframe').src = rand;
+}
+
+document.getElementById('right-button').onclick = function () {
+  const rand = myArray[Math.floor(Math.random() * myArray.length)];
+  document.getElementById('iframe').src = rand;
+}
