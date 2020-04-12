@@ -16,7 +16,7 @@ body {
 
 .header {
   color: #999999;
-  margin:  50px 50px 75px;
+  margin: 50px 50px 75px 75px;
 }
 
 .arrow {
@@ -60,4 +60,20 @@ a {
   top: 100px;
   left: 50px;
   position: absolute;
+}
+
+@media (max-width: 414px) {
+  .header {
+    color: #999999;
+    margin: 30px 30px 25px;
+  }
+
+  .iframe {
+    top: 95.05%;
+    left: 12%;
+    margin-left: 12px;
+    width: 81%;
+    position: absolute;
+    display: inline-block;
+  }
 }
