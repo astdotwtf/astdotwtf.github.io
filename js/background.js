@@ -199,6 +199,14 @@ const techno_images = [
   "https://d2w9rnfcy7mm78.cloudfront.net/828553/original_1217a1d088a9a7c25d5372112f2a1129.gif?1483991476?bc=1", // smiley
   "https://d2w9rnfcy7mm78.cloudfront.net/1313595/original_b7a013aa22f1d18236f886a8fe4cec61.gif?1507167867?bc=1", // infinity
   "https://d2w9rnfcy7mm78.cloudfront.net/190965/original_56490a71e8606742b29b995c68ff0537.gif?1390314313?bc=1", // strange
+  "https://d2w9rnfcy7mm78.cloudfront.net/993436/original_bc80a9d8e582a13cc9e730056f63b75c.gif?1493162715?bc=1", // letter
+  "https://d2w9rnfcy7mm78.cloudfront.net/4116045/original_92baa4fb8219d59e794492c89945d1b4.gif?1555719429?bc=1", // clouds
+  "https://d2w9rnfcy7mm78.cloudfront.net/1046846/original_2746c9a0a0841e247fc330f7f0657b84.gif?1496234239?bc=1", // raw as the flesh
+  "https://d2w9rnfcy7mm78.cloudfront.net/2272376/original_8aa22fee0489faa5a8c26a092e38c558.gif?1528301426?bc=1", // person
+  "https://d2w9rnfcy7mm78.cloudfront.net/3264686/original_891d7d1186a71e3c6c775aced0346b46.gif?1545928085?bc=1", // mind fuck
+  "https://d2w9rnfcy7mm78.cloudfront.net/3675011/original_9b7d2b5bb325418a2804ab1d3f4c0461.gif?1550528785?bc=1", // noise
+  "https://d2w9rnfcy7mm78.cloudfront.net/3675008/original_312ab2ac69e5d3f8c059ac4ff394ffeb.gif?1550528771?bc=1", // anime
+
 ]
 
 const house_images = [
